@@ -4,7 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class PhienChatAi extends Model
+class PhienChatAI extends Model
 {
     protected $table = 'phien_chat_ais';
     protected $fillable = [

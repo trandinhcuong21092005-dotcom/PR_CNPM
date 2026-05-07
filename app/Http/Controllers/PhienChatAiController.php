@@ -7,7 +7,7 @@ use App\Http\Requests\PhienChatAiUpdateRequest;
 use App\Models\PhienChatAi;
 use Illuminate\Http\Request;
 
-class PhienChatAiController extends Controller
+class PhienChatAIController extends Controller
 {
     public function getPhienChatAi()
     {
